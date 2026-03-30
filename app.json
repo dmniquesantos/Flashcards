@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "20db7b93-ea92-4a4c-9c8d-a4972b31302b"
+      }
+    },
+    "android": {
+      "package": "com.vnribss.workspace"
+    }
+  }
+}
